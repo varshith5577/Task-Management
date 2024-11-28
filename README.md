@@ -12,7 +12,7 @@ This is a simple Todo List application developed using Python, FLASK, Django, Sq
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/varshith5577/Task-Management.git>
 
 2. Install the required dependencies:
    - pip install -r requirements.txt
